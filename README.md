@@ -144,7 +144,7 @@ I tend to focus on education-related projects because I do so much of it myself.
 | **protocol buffers**              | Schema definition for APIs                                                          | <1 year               | Beginner (1/4) |
 | **PowerShell/Bash**               | Task automation, scripting                                                          | 2-3 years               | Intermediate (2/4) |
 
-**Working towards:** Advanced DB design paradigms (sharding, partitioning, advanced indexing, denormalisation for performance, eventual consistency, RLS/row-level security), Clean Architecture, modular monorepos, scalable system design, regulatory standards.
+**Working towards:** Advanced DB design paradigms (sharding, partitioning, advanced indexing, denormalisation for performance, eventual consistency, high availability (more on the DevOps side though...)), Clean Architecture, modular monorepos, scalable system design, regulatory standards.
 
 </details>
 
