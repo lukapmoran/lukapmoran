@@ -9,74 +9,60 @@ I tend to focus on education-related projects because I do so much of it myself.
 ## 🧰 Core Skills & Technologies
 
 ### Web
-- Next.js
-- React
+- Next.js/React
 - TypeScript
-- HTML
-- CSS
+- HTML/CSS
 - Material UI
-- Expo
-- React Native
+- Expo/React Native
 - Tauri v2 (Rust + React)
-- next-intl
+- i18n
 
 ### Documentation
 - Nextra (Next.js-based docs)
 - Docusaurus (React-based docs)
 - Markdown (md & mdx)
-- LaTeX
-- KaTeX
+- LaTeX/KaTeX
 
 ### API & Design
 - REST API design
 - OpenAPI
 - System design (content addressable storage, caching, backups)
 - Database design (1NF/2NF/3NF, ACID, denormalisation as needed, working towards sharding, partitioning, advanced indexing, and regulatory compliance)
-- Protocol Buffers
 
 ### Automation
-- ESLint
-- Prettier
-- Biome
+- ESLint/Prettier/Biome
 - Conventional Commits
 - commitlint
-- Husky
-- lint-staged
+- Husky/lint-staged
 - pnpm
 - Commitizen
 - GitHub Actions
-- VSCode
-- Neovim
 
 ### Infrastructure
 - Nx (monorepo management)
-- Supabase (database, storage, auth, edge functions)
-- Postgres
+- Postgres/Supabase (database, storage, auth, edge functions)
 - SQLite
 - Redis
 - Cloudflare Workers
 - Docker
 - Kubernetes (k8s)
-- NGINX
-- Traefik
+- NGINX/Traefik
 - Grafana
 - Cloudflare R2
-- zstd compression
 
 ### Testing
 - Vitest
 - Playwright
-- pgTAP
-- Jest-axe & @axe-core/playwright (accessibility testing)
+- pgTAP/Custom RLS testing
+- Jest-axe & @axe-core/playwright (a11y testing)
 - React Testing Library
-- Custom RLS testing scripts
 
 ### Compliance
 - Regulatory standards: GDPR, SOC 2, ISO 27001, ISO 42001
 - Payments: Stripe, Paddle
 
 ### Other
-- LLMs: OpenAI, Google genai, Anthropic, OpenRouter
+- LLMs: OpenAI, Google genai (Gemini), Anthropic, OpenRouter
 - PowerShell (ps1), Bash scripting
 
 ---
@@ -163,7 +149,7 @@ I tend to focus on education-related projects because I do so much of it myself.
 ### [Redacted] — High-quality Anki Tools
 *Currently building a flagship app empowering Anki users to optimise their learning.*
 - Technologies: Nx, Next.js, Nextra, Docusaurus, Vitest, Playwright, Supabase, OpenAPI, Cloudflare Workers, Biome, ESLint, VSCode, Neovim, Material UI, Conventional Commits, pnpm, SQLite, zstd, Protocol Buffers, Commitizen, Husky, lint-staged, Redis
-- Features: SSR-heavy performance, advanced middleware (rewrites for UX), robust git branching, PR and testing workflows, GDPR/SOC 2/ISO compliance, payments, scripting (PowerShell/Bash), Clean Architecture, custom Rust-style error handling
+- Features: SSR-heavy performance, advanced middleware (rewrites for UX), robust git branching, PR and testing workflows, GDPR compliance (aiming for SOC 2/ISO 27001 compliance in future prn), payments, scripting (PowerShell/Bash), Clean Architecture, custom Rust-style error handling
 - Testing: Comprehensive test matrix (unit, integration, E2E, accessibility, database/RLS scripts)
 
 ---
