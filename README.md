@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Luka
 
-**Mechanical engineer by training · Current medical student · Self-taught software developer (~13 casual YoE)**
+**Mechanical engineer by training · Current medical student · Self-taught software developer (~13 YoE (non-professional), 1 software internship (professional))**
 
 I tend to focus on education-related projects because I do so much of it myself. I enjoy the intersection of engineering, medicine, and technology—always pushing limits and asking, "Well, I'll at least try." I believe in making things work, automating wherever possible, and designing robust systems with user experience and maintainability in mind.
 
