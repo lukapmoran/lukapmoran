@@ -75,7 +75,6 @@ I approach challenges with a balance of curiosity and pragmatism—measured enou
 - OpenAPI
 - System design (content addressable storage, caching, backups)
 - Database design (1NF/2NF/3NF, ACID, denormalisation as needed, working towards sharding, partitioning, advanced indexing, and regulatory compliance)
-
     </td>
     <td style="vertical-align: top;">
 
@@ -87,7 +86,6 @@ I approach challenges with a balance of curiosity and pragmatism—measured enou
 - pnpm
 - Commitizen
 - GitHub Actions
-
     </td>
   </tr>
     <tr>
@@ -104,7 +102,6 @@ I approach challenges with a balance of curiosity and pragmatism—measured enou
 - NGINX/Traefik
 - Grafana
 - Cloudflare R2
-
     </td>
     <td style="vertical-align: top;">
 
@@ -114,7 +111,6 @@ I approach challenges with a balance of curiosity and pragmatism—measured enou
 - pgTAP/Custom RLS testing
 - Jest-axe & @axe-core/playwright (a11y testing)
 - React Testing Library
-
     </td>
   </tr>
       <tr>
@@ -123,75 +119,15 @@ I approach challenges with a balance of curiosity and pragmatism—measured enou
 ### Compliance
 - Regulatory standards: GDPR, SOC 2, ISO 27001, ISO 42001
 - Payments: Stripe, Paddle
-
     </td>
     <td style="vertical-align: top;">
 
 ### Other
 - LLMs: OpenAI, Google genai (Gemini), Anthropic, OpenRouter
 - PowerShell (ps1), Bash scripting
-
     </td>
   </tr>
 </table>
-
-
-### Web
-- Next.js/React
-- TypeScript
-- HTML/CSS
-- Material UI
-- Expo/React Native
-- Tauri v2 (Rust + React)
-- i18n
-
-### Documentation
-- Nextra (Next.js-based docs)
-- Docusaurus (React-based docs)
-- Markdown (md & mdx)
-- LaTeX/KaTeX
-
-### API & Design
-- REST API design
-- OpenAPI
-- System design (content addressable storage, caching, backups)
-- Database design (1NF/2NF/3NF, ACID, denormalisation as needed, working towards sharding, partitioning, advanced indexing, and regulatory compliance)
-
-### Automation
-- ESLint/Prettier/Biome
-- Conventional Commits
-- commitlint
-- Husky/lint-staged
-- pnpm
-- Commitizen
-- GitHub Actions
-
-### Infrastructure
-- Nx (monorepo management)
-- Postgres/Supabase (database, storage, auth, edge functions)
-- SQLite
-- Redis
-- Cloudflare Workers
-- Docker
-- Kubernetes (k8s)
-- NGINX/Traefik
-- Grafana
-- Cloudflare R2
-
-### Testing
-- Vitest
-- Playwright
-- pgTAP/Custom RLS testing
-- Jest-axe & @axe-core/playwright (a11y testing)
-- React Testing Library
-
-### Compliance
-- Regulatory standards: GDPR, SOC 2, ISO 27001, ISO 42001
-- Payments: Stripe, Paddle
-
-### Other
-- LLMs: OpenAI, Google genai (Gemini), Anthropic, OpenRouter
-- PowerShell (ps1), Bash scripting
 
 ---
 
